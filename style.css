@@ -1,0 +1,176 @@
+
+body {
+	background-color: #559cad;
+    color: rgb(74,71,71);
+    font-family: 'Catamaran', sans-serif; 
+	font-size:30px; 
+	font-weight: lighter;
+}
+
+h1 {
+	color: rgb(30,30,30);
+	font-family: 'New Tegomin', serif;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+h2 {
+	color: rgb(30,30,30);
+	font-family: 'Exo 2', sans-serif;
+	font-size: 36px;
+	font-weight: bolder;
+}
+
+a {
+	text-decoration: none;
+	color: purple;
+	transition: color 0.3s ease;
+}
+
+a:hover {
+ 	color: rgb(74,71,71);
+ 	text-decoration: underline;
+}
+
+.profilepic{
+	width:480px ;
+	height:480px;
+	text-align: center;
+	border-radius: 20%;
+
+}
+
+*custom design 
+.box {
+	width: 700px;
+	margin: 40px auto;
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
+
+.card-one {
+	background-color: #99b898;
+    width: 2000px;
+    padding: 15px;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0px 5px 20px rgb(grey);
+    border-radius: 4px;
+    border-bottom: 3px solid rgba(0,0,0,0.1);
+    position: top;
+    padding-top: 2em;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+}
+ 
+.card-two {
+	background-color: #f9d56e;
+    width: 2000px;
+    padding: 15px;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0px 5px 20px rgb(grey);
+    border-radius: 4px;
+    border-bottom: 3px solid rgba(0,0,0,0.1);
+    position: top;
+    padding-top: 2em;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+}
+
+.card-three {
+	background-color: #feceab;
+	width: 2000px;
+    padding: 15px;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0px 5px 20px rgb(grey);
+    border-radius: 4px;
+    border-bottom: 3px solid rgba(0,0,0,0.1);
+    position: top;
+    padding-top: 2em;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+}
+
+.card-four {
+	background-color: #ff847c;
+	width: 2000px;
+    padding: 15px;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0px 5px 20px rgb(grey);
+    border-radius: 4px;
+    border-bottom: 3px solid rgba(0,0,0,0.1);
+    position: top;
+    padding-top: 2em;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+}
+
+.card-five {
+	background-color: #e84a5f;
+	width: 2000px;
+    padding: 15px;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 0px 5px 20px rgb(grey);
+    border-radius: 4px;
+    border-bottom: 3px solid rgba(0,0,0,0.1);
+    position: top;
+    padding-top: 2em;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1%;
+}
+
+.btn-one {
+	background-color: #6b72e1;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-one:hover {
+	background-color: #99b898;
+	color: white;
+}
+
+.contact{
+	font-size: 80px;
+	font-weight: bold;	
+	display: inline-block;
+	margin-left: 15px;
+	margin-right: 50px;
+}
